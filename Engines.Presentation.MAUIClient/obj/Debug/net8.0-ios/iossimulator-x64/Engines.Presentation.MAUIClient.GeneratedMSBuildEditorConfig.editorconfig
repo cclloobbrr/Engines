@@ -1,0 +1,107 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Engines.Presentation.MAUIClient
+build_property.ProjectDir = C:\Users\Clobr\Desktop\CS_Engines-main\Engines.Presentation.MAUIClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Pages/Engines/Disel/AddDiselEnginePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Pages.Engines.Disel.AddDiselEnginePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Engines\Disel\AddDiselEnginePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Engines\Disel\AddDiselEnginePage.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Pages/Engines/Disel/DiselEnginePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Pages.Engines.Disel.DiselEnginePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Engines\Disel\DiselEnginePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Engines\Disel\DiselEnginePage.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Pages/Engines/Disel/GetDiselEnginePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Pages.Engines.Disel.GetDiselEnginePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Engines\Disel\GetDiselEnginePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Engines\Disel\GetDiselEnginePage.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Pages/Engines/EnginePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Pages.Engines.EnginePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Engines\EnginePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Engines\EnginePage.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Pages/Engines/ICE/AddICEEnginePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Pages.Engines.ICE.AddICEEnginePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Engines\ICE\AddICEEnginePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Engines\ICE\AddICEEnginePage.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Pages/Engines/ICE/GetICEEnginePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Pages.Engines.ICE.GetICEEnginePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Engines\ICE\GetICEEnginePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Engines\ICE\GetICEEnginePage.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Pages/Engines/ICE/ICEEnginePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Pages.Engines.ICE.ICEEnginePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Engines\ICE\ICEEnginePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Engines\ICE\ICEEnginePage.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Pages/Engines/Jet/AddJetEnginePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Pages.Engines.Jet.AddJetEnginePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Engines\Jet\AddJetEnginePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Engines\Jet\AddJetEnginePage.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Pages/Engines/Jet/GetJetEnginePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Pages.Engines.Jet.GetJetEnginePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Engines\Jet\GetJetEnginePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Engines\Jet\GetJetEnginePage.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Pages/Engines/Jet/JetEnginePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Pages.Engines.Jet.JetEnginePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Engines\Jet\JetEnginePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Engines\Jet\JetEnginePage.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Clobr/Desktop/CS_Engines-main/Engines.Presentation.MAUIClient/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Engines.Presentation.MAUIClient.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

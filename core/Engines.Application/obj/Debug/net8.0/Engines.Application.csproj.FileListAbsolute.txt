@@ -1,0 +1,15 @@
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\bin\Debug\net8.0\Engines.Application.deps.json
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\bin\Debug\net8.0\Engines.Application.dll
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\bin\Debug\net8.0\Engines.Application.pdb
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\bin\Debug\net8.0\Engines.Domain.dll
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\bin\Debug\net8.0\Engines.Domain.pdb
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\obj\Debug\net8.0\Engines.Application.csproj.AssemblyReference.cache
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\obj\Debug\net8.0\Engines.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\obj\Debug\net8.0\Engines.Application.AssemblyInfoInputs.cache
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\obj\Debug\net8.0\Engines.Application.AssemblyInfo.cs
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\obj\Debug\net8.0\Engines.Application.csproj.CoreCompileInputs.cache
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\obj\Debug\net8.0\Engines..EADFEA43.Up2Date
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\obj\Debug\net8.0\Engines.Application.dll
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\obj\Debug\net8.0\refint\Engines.Application.dll
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\obj\Debug\net8.0\Engines.Application.pdb
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Application\obj\Debug\net8.0\ref\Engines.Application.dll

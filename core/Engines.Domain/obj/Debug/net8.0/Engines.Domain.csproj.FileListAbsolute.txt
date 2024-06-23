@@ -1,0 +1,11 @@
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Domain\bin\Debug\net8.0\Engines.Domain.deps.json
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Domain\bin\Debug\net8.0\Engines.Domain.dll
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Domain\bin\Debug\net8.0\Engines.Domain.pdb
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Domain\obj\Debug\net8.0\Engines.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Domain\obj\Debug\net8.0\Engines.Domain.AssemblyInfoInputs.cache
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Domain\obj\Debug\net8.0\Engines.Domain.AssemblyInfo.cs
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Domain\obj\Debug\net8.0\Engines.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Domain\obj\Debug\net8.0\Engines.Domain.dll
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Domain\obj\Debug\net8.0\refint\Engines.Domain.dll
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Domain\obj\Debug\net8.0\Engines.Domain.pdb
+C:\Users\Clobr\Desktop\CS_Engines-main\core\Engines.Domain\obj\Debug\net8.0\ref\Engines.Domain.dll
