@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Engines.Presentation.Console
-build_property.ProjectDir = C:\Users\Clobr\Desktop\CS_Engines-main\presentation\console\Engines.Presentation.Console\
+build_property.ProjectDir = C:\Users\Clobr\Desktop\Engines\presentation\console\Engines.Presentation.Console\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

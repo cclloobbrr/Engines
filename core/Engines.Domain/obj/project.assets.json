@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Domain\\Engines.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Domain\\Engines.Domain.csproj",
       "projectName": "Engines.Domain",
-      "projectPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Domain\\Engines.Domain.csproj",
+      "projectPath": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Domain\\Engines.Domain.csproj",
       "packagesPath": "C:\\Users\\Clobr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

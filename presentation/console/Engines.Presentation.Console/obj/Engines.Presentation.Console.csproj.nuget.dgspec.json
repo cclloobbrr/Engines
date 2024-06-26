@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\presentation\\console\\Engines.Presentation.Console\\Engines.Presentation.Console.csproj": {}
+    "C:\\Users\\Clobr\\Desktop\\Engines\\presentation\\console\\Engines.Presentation.Console\\Engines.Presentation.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Application\\Engines.Application.csproj": {
+    "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Application\\Engines.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Application\\Engines.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Application\\Engines.Application.csproj",
         "projectName": "Engines.Application",
-        "projectPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Application\\Engines.Application.csproj",
+        "projectPath": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Application\\Engines.Application.csproj",
         "packagesPath": "C:\\Users\\Clobr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Application\\obj\\",
+        "outputPath": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Domain\\Engines.Domain.csproj": {
-                "projectPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Domain\\Engines.Domain.csproj"
+              "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Domain\\Engines.Domain.csproj": {
+                "projectPath": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Domain\\Engines.Domain.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Domain\\Engines.Domain.csproj": {
+    "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Domain\\Engines.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Domain\\Engines.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Domain\\Engines.Domain.csproj",
         "projectName": "Engines.Domain",
-        "projectPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Domain\\Engines.Domain.csproj",
+        "projectPath": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Domain\\Engines.Domain.csproj",
         "packagesPath": "C:\\Users\\Clobr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\infrastructure\\Engines.Infrastructure\\Engines.Infrastructure.csproj": {
+    "C:\\Users\\Clobr\\Desktop\\Engines\\infrastructure\\Engines.Infrastructure\\Engines.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\infrastructure\\Engines.Infrastructure\\Engines.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Clobr\\Desktop\\Engines\\infrastructure\\Engines.Infrastructure\\Engines.Infrastructure.csproj",
         "projectName": "Engines.Infrastructure",
-        "projectPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\infrastructure\\Engines.Infrastructure\\Engines.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Clobr\\Desktop\\Engines\\infrastructure\\Engines.Infrastructure\\Engines.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Clobr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\infrastructure\\Engines.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Clobr\\Desktop\\Engines\\infrastructure\\Engines.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -167,8 +167,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Application\\Engines.Application.csproj": {
-                "projectPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Application\\Engines.Application.csproj"
+              "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Application\\Engines.Application.csproj": {
+                "projectPath": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Application\\Engines.Application.csproj"
               }
             }
           }
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\presentation\\console\\Engines.Presentation.Console\\Engines.Presentation.Console.csproj": {
+    "C:\\Users\\Clobr\\Desktop\\Engines\\presentation\\console\\Engines.Presentation.Console\\Engines.Presentation.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\presentation\\console\\Engines.Presentation.Console\\Engines.Presentation.Console.csproj",
+        "projectUniqueName": "C:\\Users\\Clobr\\Desktop\\Engines\\presentation\\console\\Engines.Presentation.Console\\Engines.Presentation.Console.csproj",
         "projectName": "Engines.Presentation.Console",
-        "projectPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\presentation\\console\\Engines.Presentation.Console\\Engines.Presentation.Console.csproj",
+        "projectPath": "C:\\Users\\Clobr\\Desktop\\Engines\\presentation\\console\\Engines.Presentation.Console\\Engines.Presentation.Console.csproj",
         "packagesPath": "C:\\Users\\Clobr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\presentation\\console\\Engines.Presentation.Console\\obj\\",
+        "outputPath": "C:\\Users\\Clobr\\Desktop\\Engines\\presentation\\console\\Engines.Presentation.Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -246,11 +246,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Application\\Engines.Application.csproj": {
-                "projectPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\core\\Engines.Application\\Engines.Application.csproj"
+              "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Application\\Engines.Application.csproj": {
+                "projectPath": "C:\\Users\\Clobr\\Desktop\\Engines\\core\\Engines.Application\\Engines.Application.csproj"
               },
-              "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\infrastructure\\Engines.Infrastructure\\Engines.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\infrastructure\\Engines.Infrastructure\\Engines.Infrastructure.csproj"
+              "C:\\Users\\Clobr\\Desktop\\Engines\\infrastructure\\Engines.Infrastructure\\Engines.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Clobr\\Desktop\\Engines\\infrastructure\\Engines.Infrastructure\\Engines.Infrastructure.csproj"
               }
             }
           }

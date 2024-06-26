@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jwh83VxdYEM=",
+  "dgSpecHash": "7B6rrS+Jn6A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\presentation\\console\\Engines.Presentation.Console\\Engines.Presentation.Console.csproj",
+  "projectFilePath": "C:\\Users\\Clobr\\Desktop\\Engines\\presentation\\console\\Engines.Presentation.Console\\Engines.Presentation.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Clobr\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.9.0.0-preview.1.24080.9.nupkg.sha512",
     "C:\\Users\\Clobr\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OAKOBfuff2A=",
+  "dgSpecHash": "n7EGVKN7yqU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Clobr\\Desktop\\CS_Engines-main\\Engines.Presentation.MAUIClient\\Engines.Presentation.MAUIClient.csproj",
+  "projectFilePath": "C:\\Users\\Clobr\\Desktop\\Engines\\Engines.Presentation.MAUIClient\\Engines.Presentation.MAUIClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Clobr\\.nuget\\packages\\communitytoolkit.maui\\7.0.0\\communitytoolkit.maui.7.0.0.nupkg.sha512",
     "C:\\Users\\Clobr\\.nuget\\packages\\communitytoolkit.maui.core\\7.0.0\\communitytoolkit.maui.core.7.0.0.nupkg.sha512",
